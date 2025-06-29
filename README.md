@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Isaloum
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning about it, more than halfway to finish the course 
-- 💞️ I’m looking to collaborate on learning more about this field and I am open to any advice 
-- 📫 How to reach me through my email ihabsaloum85@gmail.com
-
-<!---
-Isaloum/Isaloum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 👋 Hi, I'm @Isaloum - Electrical Engineer turned AI Developer
+* ⚡ Background: Electrical Engineering with expertise in PM, Data Analysis & Business Intelligence
+* 🚀 Currently building Friday AI - an advanced pregnancy companion chatbot with Flask/Python
+* 📊 Experience in project management, data analytics, and BI solutions
+* 🤖 Passionate about AI applications and intelligent web development
+* ☁️ Learning cloud deployment with AWS (EC2, RDS, Route 53) and infrastructure management
+* 💻 Tech stack: Python, Flask, PostgreSQL, AWS, HTML/CSS, AI/ML integrations, BI tools
+* 🔐 Background in cybersecurity with hands-on cloud security experience
+* 🌱 Always expanding my skills in full-stack development and AI applications
+* 💞️ Open to collaborating on AI projects, data-driven applications, and cloud deployments
+* 📫 Reach me at ihabsaloum85@gmail.com
+* 🌐 Check out my live project: fridayaiapp.com
