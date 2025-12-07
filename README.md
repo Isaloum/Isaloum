@@ -9,6 +9,5 @@
 * 🌱 Always expanding my skills in full-stack development and AI applications
 * 💞️ Open to collaborating on AI projects, data-driven applications, and cloud deployments
 * 📫 Reach me at ihabsaloum85@gmail.com
-* 🌐 Check out my live project: fridayaiapp.com
 * I created a comprehensive AWS documentation website covering 200+ services with interactive visualizations and deployed it using GitHub Pages.
   Here's the live link: "https://isaloum.github.io/FridayAI/AWS-Professional-Guide.html"
